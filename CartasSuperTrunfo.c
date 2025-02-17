@@ -23,7 +23,7 @@ int main() {
     float area;
 
     printf ("NOME DA CIDADE\n");
-    scanf("%s", &nome);
+    scanf("%s", nome);
 
     printf("POPULACAO\n");
     scanf("%f", &populacao);
