@@ -17,7 +17,7 @@
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 int main() {
 
-    char nome [50];
+    char nome [20];
     int populacao;
     double pib;
     float area;
